@@ -1,0 +1,46 @@
+[
+    {
+        "id": "Destify",
+        "title": "Destify",
+        "description": "A booking platform for wedding reservation.",
+        "image": "",
+        "link": "https://destify.com/",
+        "category": "Booking",
+        "year": 2023,
+        "industry": "Booking Industry",
+        "tools": ["JavaScript", "Go", "React", "Nextjs", "PostgreSQL", "Wordpress", "Docker"]
+    },
+    {
+        "id": "paasify",
+        "title": "Paasify (WIP)",
+        "description": "A platform for developers to deploy their apps on the cloud with a single click.",
+        "image": "https://raw.githubusercontent.com/Paasify/Paasify/main/arch.png",
+        "link": "https://github.com/Paasify",
+        "category": "Development (WIP)",
+        "year": 2023,
+        "industry": "Personal Project (WIP)",
+        "tools": ["JavaScript", "Nodejs", "React", "Express", "MongoDB", "Socket.io", "Docker"]
+    },
+    {
+        "id": "shopai",
+        "title": "ShopAI",
+        "description": "Implementation of the solution of the problem statement of the hackathon 'Flipkart Grid 5.0', ShopAI is a fashion shopping AI Assistant which converses and gives outfit recommendations",
+        "image": "https://raw.githubusercontent.com/NguyenHieu/ShopAI/main/SearchPreview.png",
+        "link": "https://github.com/EliteKnightDeveloper/ShopAI",
+        "category": "Development",
+        "year": 2022,
+        "industry": "Flipkart Grid 5.0",
+        "tools": ["Typescript", "Nodejs", "React", "FastAPI", "Selenium", "Google Cloud Platform", "GPT-4"]
+    },
+    {
+        "id": "spotify-promoCards-api",
+        "title": "Spotify PromoCards API",
+        "description": "An unofficial Spotify PromoCards generator API inspired by the original Spotify's shareable song cards.",
+        "image": "https://i.imgur.com/0bzeEcN.png",
+        "link": "https://spotify-cards.fossian.com",
+        "category": "Development",
+        "year": 2021,
+        "industry": "Personal Project",
+        "tools": ["JavaScript", "Nodejs", "Express", "Spotify Web API", "node-canvas", "Docker"]
+    }
+]
