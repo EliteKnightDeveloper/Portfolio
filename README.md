@@ -1,6 +1,4 @@
-<h1 align="center">Wink :sparkles:<br /><a href="https://NguyenHieu.vercel.app" target="_blank">NguyenHieu</a></h1>
-
-![NguyenHieu](./NguyenHieu.png)
+<h1 align="center">Wink :sparkles:<br /></h1>
 
 ## Notes :heavy_exclamation_mark:
 
